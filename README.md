@@ -1,4 +1,6 @@
-NLP-Based Question Answering System x World War
+#NLP-Based Question Answering System x World War
+
+![Chatbot UI](./chatbot.ui.png)
 
 This project implements a domain-specific Question Answering (QA) system using transformer-based models.
 It includes web scraping for dataset creation, semantic search, retrieval-augmented generation (RAG) techniques, and a Gradio-based UI for interactive querying.
