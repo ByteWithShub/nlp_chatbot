@@ -1,0 +1,10 @@
+#Dependencies and Imports 
+Python
+Torch
+Transformers
+Sentence-transformers
+Gradio
+Beautifulsoup4
+Requests
+Scikit-learn
+PyTorch
