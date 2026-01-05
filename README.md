@@ -23,7 +23,7 @@ Key Features
 - Interactive Web App: Quickly test the QA model using an intuitive Gradio interface.
 
 
-Contributor: https://github.com/Bradia-Aza and I. 
+Contributor: https://github.com/Bradia-Aza
 
   
 ||  "The world must know what happened and never forget." — Dwight D. Eisenhower 
